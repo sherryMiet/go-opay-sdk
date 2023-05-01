@@ -8,7 +8,7 @@ import (
 	"encoding/json"
 	"fmt"
 	"github.com/gorilla/schema"
-	"github.com/sherryMiet/go-opay-sdk/base"
+	ecpayBase "github.com/sherryMiet/go-opay-sdk/base"
 	"html/template"
 	"net/url"
 	"reflect"
